@@ -16,6 +16,7 @@
 - [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 - [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [FiraCode](https://github.com/tonsky/FiraCode)
 - [gi](https://marketplace.visualstudio.com/items?itemName=rubbersheep.gi)
 - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
 - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
